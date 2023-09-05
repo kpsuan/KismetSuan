@@ -13,12 +13,12 @@ Technical Skills: Python, C, Java, ReactJs, Frontend Development
 Tugon aims to create a centralized satisfaction rating system for public offices and utilities in Iloilo City.
 
 ### TicTacToe
-https://kpsuan.github.io/TicTacToe/
+[Game Link](https://kpsuan.github.io/TicTacToe/)
 
 ![Screenshot (833)](https://github.com/kpsuan/KismetSuan/assets/70733314/8bf628cb-6dcd-4feb-ac40-2727aabd4522)
 
 ### Spiderman Inspired Java Game
-[Documentation]https://github.com/kpsuan/SpidermanGame
+[Documentation](https://github.com/kpsuan/SpidermanGame)
 
 ## Education 		        		
 - B.S., Computer Science | University of the Philippines Visayas (_2020 - Present_)
